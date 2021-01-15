@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+
+div{
+    margin-top: 15px;
+}
+
+#img1{
+    width: 500px;
+    height: 250px;
+}
+
+#img2{
+    width: 400px;
+    height: 200px;
+}
